@@ -27,11 +27,11 @@ START>>>
 
 ### Mantid Calibration
 
->>>START>>>
+START>>>
 {
 	"labels" : "SSC,Calibration"
 }
-<<<END<<<
+<<<END
 
 ### Planning Tools 
 
