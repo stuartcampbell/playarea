@@ -9,11 +9,11 @@ Requirements:
 
 ### Single Crystal
 
->>>START>>>
+START>>>
 {
 	"labels" : "SSC,Single Crystal"
 }
-<<<END<<<
+<<<END
 
 - Benchmark Mantid and SXD2001 performance and accuracy - Should be done by Pascal?
 - Translation of ALFnew interface to Mantid - needs investigation
