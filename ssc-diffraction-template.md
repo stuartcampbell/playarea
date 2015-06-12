@@ -37,7 +37,7 @@ START>>>
 
 START>>>
 {
-	"labels" : "SSC,Planning"
+	"labels" : "SSC,Planning Tools"
 }
 <<<END
 
