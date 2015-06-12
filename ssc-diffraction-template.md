@@ -35,3 +35,57 @@ START>>>
 
 ### Planning Tools 
 
+START>>>
+{
+	"labels" : "SSC,Planning"
+}
+<<<END
+
+### Multiple Scattering Absorbtion Corrections
+
+START>>>
+{
+	"issue": 12060
+}
+<<<END
+
+### Fitting Improvements
+
+START>>>
+{
+	"labels" : "SSC,Fitting"
+}
+<<<END
+
+### Integration with Gudrun
+
+START>>>
+{
+	"issue": 12113
+}
+<<<END
+
+### Others
+
+START>>>
+[
+{
+	"issue": 12111
+},
+{
+	"issue": 12118
+},
+{
+	"issue": 12071
+},
+{
+	"issue": 12112
+},
+{
+	"labels": "SSC,Nicks Special Label"
+}
+]
+<<<END
+
+
+
